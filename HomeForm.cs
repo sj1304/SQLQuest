@@ -15,7 +15,6 @@ namespace SQLQuest
             InitializeComponent();
             LoadLeaderboard();
         }
-
         private void LoadLeaderboard()
         {
             string query = @"
